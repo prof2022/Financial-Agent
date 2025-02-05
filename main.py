@@ -1,6 +1,3 @@
-# Main Directory Structure
-
-# Main File: main.py
 from src.financial_agent.main_agent import FinancialAgent
 
 if __name__ == "__main__":
